@@ -3,6 +3,7 @@ from roanu import roanuedhuru
 from better_profanity import profanity
 
 
+
 async def main():
     profanity.add_censor_words(['ngbl', 'nagoobalha', 'balha'])
 
